@@ -2,7 +2,7 @@
 #include "Queue.h"
 #include "Item.h"
 
-//Daniel Hay - 209042720 && Noya Ossi - 318638053 
+
 
 //Queue using a two-way linked list
 class QueueList : public Queue
