@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include "Queue.h"
 
-//Daniel Hay - 209042720 && Noya Ossi - 318638053 
+
 
 //QueueArray - Queue using an array
 class QueueArray : public Queue
