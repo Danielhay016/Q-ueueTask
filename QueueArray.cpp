@@ -1,6 +1,6 @@
 ﻿#include "QueueArray.h"
 
-//Daniel Hay - 209042720 && Noya Ossi - 318638053 
+
 
 //C'tor
 QueueArray::QueueArray(int lengthArray)
